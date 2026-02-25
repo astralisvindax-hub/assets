@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Astralis Mainnet",
+    "url": "https://explorer.astralischain.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/astralisvindax-hub/assets/master/frontend_info/icon.svg"
+  },
+  {
+    "title": "Astralis Testnet",
+    "url": "https://test-explorer.astralischain.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/astralisvindax-hub/assets/master/frontend_info/icon.svg",
+    "isActive": true
+  }
+]
